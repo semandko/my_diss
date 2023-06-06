@@ -1,0 +1,48 @@
+﻿[1] Stephan Abermann. Non-vacuum processed next generation thin film photovoltaics: Towards marketable efficiency and production of CZTS based solar cells. Solar Energy 94 (2013) 37–70.
+[2] W. Wang, M. T. Winkler, O. Gunawan, T. Gokmen, T. K. Todorov,Y. Zhu, D.B. Mitzi, Device Characteristics of CZTSSe Thin-Film Solar Cells with 12.6% Efficiency // Advanced Energy Materials, 4(7), pp. 1-5 (2014).
+ https://onlinelibrary.wiley.com/doi/10.1002/aenm.201301465
+[3] 
+[] M. Semenenko, O. Kyriienko, O. Yilmazoglu, O. Steblova, and N. Klyui. Photo-assisted field emission and electro-reflectance modulation investigations of GaN nanorod arrays // Thin solid films 564, (2014) 218-221.
+https://doi.org/10.1016/j.tsf.2014.06.017 
+[1] Abermann S. Non-vacuum processed next generation thin film photovoltaics: Towards marketable efficiency and production of CZTS based solar cells. Solar Energy 2013;94:37-70.
+https://doi.org/10.1016/j.solener.2013.04.017
+[2] Pal K, Singh P, Bhaduri A, Thapa KB. Current challenges and future prospects for a highly efficient (>20%) kesterite CZTS solar cell: A review. Sol Energy Mater Sol Cells 2019;196:138-56.
+https://doi.org/10.1016/j.solmat.2019.03.001
+[3] Giraldo S, Jehl Z, Placidi M, Izquierdo‐Roca V, Pérez-Rodríguez A, Saucedo E. Progress and Perspectives of Thin Film Kesterite Photovoltaic Technology: A Critical Review. Adv Mater 2019;31:1806692.
+ https://doi.org/10.1002/adma.201806692
+[4] Wang W, Winkler MT, Gunawan O, Gokmen T, Todorov TK, Zhu Y, et al. Device Characteristics of CZTSSe Thin-Film Solar Cells with 12.6% Efficiency. Adv Energy Mater 2014;4:1301465.
+ https://doi.org/10.1002/aenm.201301465
+[5] Semenenko M, Babichuk IS, Khatsevich I, Antonin S, Datsenko OI, Golovynskyi S, et al. Red-shifted photoluminescence and gamma irradiation stability of “micromorph” (nc-Si/SiO)/DLC down-converter anti-reflection coatings. Diam Relat Mater 2019;100:107578.
+https://doi.org/10.1016/j.diamond.2019.107578
+[6] Brus VV, Ilashchuk MI, Orletskyi IG, Solovan MM, Parkhomenko GP, Babichuk IS, et al. Coupling between structural properties and charge transport in nano-crystalline and amorphous graphitic carbon films, deposited by electron-beam evaporation. Nanotechnology 2020;31:505706  (9pp).
+https://iopscience.iop.org/article/10.1088/1361-6528/abb5d4
+[7] Brus VV, Maryanchuk PD, Ilashchuk MI, Rappich J, Babichuk IS, Kovalyuk ZD. Graphitic carbon/n-CdTe Schottky-type heterojunction solar cells prepared by electron-beam evaporation. Solar Energy 2015;112:78-84.
+https://doi.org/10.1016/j.solener.2014.11.023
+[8] Babichuk IS, Golovynskyi S, Caballero R, Gurieva G, Datsenko OI, Babichuk IV, et al. Thickness-dependent structural parameters of kesterite Cu2ZnSnSe4 thin films for solar cell absorbers. Mater Lett 2018;225:82-4.
+https://doi.org/10.1016/j.matlet.2018.04.109
+[9] Kumar J, Ingole S. Optical phonons in pentanary compound (AgxCu1−x)2ZnSnS4 semiconductor: A raman study. J Alloys Compd 2021;865:158113.
+https://doi.org/10.1016/j.jallcom.2020.158113
+[10] Valakh MY, Kolomys OF, Ponomaryov SS, Yukhymchuk VO, Babichuk IS, Izquierdo-Roca V, et al. Raman scattering and disorder effect in Cu2ZnSnS4. Phys Status Solidi RRL 2013;7:258-61.
+ https://doi.org/10.1002/pssr.201307073
+[11] Valakh MY, Dzhagan VM, Babichuk IS, Fontane X, Perez-Rodriquez A, Schorr S. Optically induced structural transformation in disordered kesterite Cu2ZnSnS4. JETP Lett 2013;98:255-8.
+https://doi.org/10.1134/S0021364013180136
+[12] Grossberg M, Raadik T, Raudoja J, Krustok J. Photoluminescence study of defect clusters in Cu2ZnSnS4 polycrystals. Curr Appl Phys 2014;14:447-50.
+https://doi.org/10.1016/j.cap.2013.12.029
+[13] Sheleg AU, Hurtavy VG, Mudryi AV, Valakh MY, Yukhymchuk VO, Babichuk IS, et al. Determination of the structural and optical characteristics of Cu2ZnSnS4 semiconductor thin films. Semiconductors 2014;48:1296-302.
+https://doi.org/10.1134/S1063782614100273
+[14] Babichuk IS, Semenenko MO, Golovynskyi S, Caballero R, Datsenko OI, Babichuk IV, et al. Control of secondary phases and disorder degree in Cu2ZnSnS4 films by sulfurization at varied subatmospheric pressures. Sol Energy Mater Sol Cells 2019;200:109915.
+https://doi.org/10.1016/j.solmat.2019.109915
+[15] Solovan MN, Mostovoi AI, Bilichuk SV, Pinna F, Kovalyuk TT, Brus VV, et al. Structural and optical properties of Cu2ZnSn(S,Se)4 films obtained by magnetron sputtering of a Cu2ZnSn alloy target. Phys Solid State 2017;59:1643-7.
+https://doi.org/10.1134/S1063783417080261
+[16] Semenenko MO, Babichuk IS, Kyriienko O, Bodnar IV, Caballero R, Leon M. RF Electromagnetic Field Treatment of Tetragonal Kesterite CZTSSe Light Absorbers. Nanoscale Res Lett 2017;12:408-15.
+https://link.springer.com/article/10.1186/s11671-017-2183-9
+[17] Babichuk IS, Yukhymchuk VO, Semenenko MO, Klyui NI, Caballero R, Hreshchuk OM, et al. Optical and morphological properties of tetragonal Cu2ZnSnS4 thin films grown from sulphide precursors at lower temperatures. SPQEO 2014;17:291-4.
+ http://nbuv.gov.ua/UJRN/MSMW_2014_17_3_15
+[18] Babichuk IS, Yukhymchuk VO, Dzhagan VM, Valakh MY, Leon M, Yanchuk IB, et al. Thin films of Cu2ZnSnS4 for solar cells: optical and structural properties. Funct Mater 2013;20:186-91.
+http://dx.doi.org/10.15407/fm20.02.186
+[19] Babichuk IS, Semenenko MO, Caballero R, Datsenko OI, Golovynskyi S, Qiu R, et al. Raman mapping of MoS2 at Cu2ZnSnS4/Mo interface in thin film. Solar Energy 2020;205:154-60.
+https://doi.org/10.1016/j.solener.2020.05.043
+[20] Fontané X, Izquierdo-Roca V, Saucedo E, Schorr S, Yukhymchuk VO, Valakh MY, et al. Vibrational properties of stannite and kesterite type compounds: Raman scattering analysis of Cu2(Fe,Zn)SnS4. J Alloys Compd 2012;539:190-4.
+https://doi.org/10.1016/j.jallcom.2012.06.042
+[21] Caballero R, Garcia-Llamas E, Merino JM, Leon M, Babichuk I, Dzhagan V, et al. Non-stoichiometry effect and disorder in Cu2ZnSnS4 thin films obtained by flash evaporation: Raman scattering investigation. Acta Mater 2014;65:412-7.
+https://doi.org/10.1016/j.actamat.2013.11.010
